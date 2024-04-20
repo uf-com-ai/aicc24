@@ -10,14 +10,14 @@
 | Time    | Session                                                      |
 | ------- | ----------------------------------------------------------- |
 | 8:30 AM | Welcome, Setup, Introductions |
-| 9:00 | Group Jupyter Notebook: [Introduction to Python](https://colab.research.google.com/github/uf-com-ai/aicc24/blob/main/1_Introduction_to_Python.ipynb) |
-| 9:45 | Group Jupyter Notebook: [Biomedical Data Analysis](https://colab.research.google.com/github/uf-com-ai/aicc24/blob/main/2_Biomedical_Data_Analysis.ipynb) |
-| 11:30 | LLM Copilot Demo |
-| 12:00 | Individual Jupyter Notebook: [Introduction to Version Control](https://colab.research.google.com/github/uf-com-ai/aicc24/blob/main/3_Introduction_to_Version_Control.ipynb) |    
-| 12:30 | Lunch |
-| 1:30 | Group Jupyter Notebook: [Machine Learning for Clinical Care](https://colab.research.google.com/github/uf-com-ai/aicc24/blob/main/4_Machine_Learning_for_Clinical_Care.ipynb) |                        
-| 2:30 | Group Jupyter Notebook: [Introduction to Deep Learning](https://colab.research.google.com/github/uf-com-ai/aicc24/blob/main/5_Introduction_to_Deep_Learning.ipynb) |   
-| 2:30 | Individual Jupyter Notebook: [Clinical AI Ethics](https://colab.research.google.com/github/uf-com-ai/aicc24/blob/main/6_Clinical_AI_Ethics.ipynb) |   
-| 4:00 | Introduction to Data Standards (Andrew Williams, PhD, Tufts University]|
-| 4:30 | Introduction to Physiological Waveforms (Rishikesan Kamaleswaran, PhD, Emory University|
-| 5:00 | Introduction to Clinical Applications of AI (Tyler Loftus, MD, University of Florida|
+| 9:00 AM| Group Jupyter Notebook: [Introduction to Python](https://colab.research.google.com/github/uf-com-ai/aicc24/blob/main/1_Introduction_to_Python.ipynb) |
+| 9:45 AM| Group Jupyter Notebook: [Biomedical Data Analysis](https://colab.research.google.com/github/uf-com-ai/aicc24/blob/main/2_Biomedical_Data_Analysis.ipynb) |
+| 11:30 AM| LLM Copilot Demo |
+| 12:00 PM| Individual Jupyter Notebook: [Introduction to Version Control](https://colab.research.google.com/github/uf-com-ai/aicc24/blob/main/3_Introduction_to_Version_Control.ipynb) |    
+| 12:30 PM| Lunch |
+| 1:30 PM| Group Jupyter Notebook: [Machine Learning for Clinical Care](https://colab.research.google.com/github/uf-com-ai/aicc24/blob/main/4_Machine_Learning_for_Clinical_Care.ipynb) |                        
+| 2:30 PM| Group Jupyter Notebook: [Introduction to Deep Learning](https://colab.research.google.com/github/uf-com-ai/aicc24/blob/main/5_Introduction_to_Deep_Learning.ipynb) |   
+| 3:00 PM | Individual Jupyter Notebook: [Clinical AI Ethics](https://colab.research.google.com/github/uf-com-ai/aicc24/blob/main/6_Clinical_AI_Ethics.ipynb) |   
+| 4:00 PM| Introduction to Data Standards (Andrew Williams, PhD, Tufts University]|
+| 4:30 PM| Introduction to Physiological Waveforms (Rishikesan Kamaleswaran, PhD, Emory University|
+| 5:00 PM| Introduction to Clinical Applications of AI (Tyler Loftus, MD, University of Florida|
