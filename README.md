@@ -1,12 +1,12 @@
 # AI for Clinical Care (AICC): Beginner Track
-**Dates:** April 21, 2024  
+**Date & Time:** April 21, 2024 (8:30 AM - 5:30 PM)  
 **In-Person Location:** UF Academic Research Building, Lake Nona, FL (Also virtual: [click here for the Zoom link](https://ufl.zoom.us/j/98773256205?pwd=Nk9PVnJYdDZiZi9VR25JNHBoYTNwZz09&from=addon))
 
 ### Self-Paced Training (Pre-Bootcamp)
 * [Foundations of AI-Based Medicine](https://reg.pwd.aa.ufl.edu/search/publicCourseSearchDetails.do?method=load&courseId=1152676&selectedProgramAreaId=1015758&selectedProgramStreamId=1016506#courseSectionDetails_1152690) (4-hour course). $200 registration fee is waived for workshop participants.
 * [AI Based Medicine Technical Expertise](https://reg.pwd.aa.ufl.edu/search/publicCourseSearchDetails.do?method=load&courseId=3529373&selectedProgramAreaId=1015758&selectedProgramStreamId=1016506) (8-hour course). $200 registration fee is waived for workahop participants.
 
-
+### Hybrid Workshop on Sunday, April 21
 | Time    | Session                                                      |
 | ------- | ----------------------------------------------------------- |
 | 8:30 AM | Welcome, Setup, Introductions |
